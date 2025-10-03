@@ -19,3 +19,4 @@ Some other things that are good defaults to have for a gitignore:
 .LSOverride
 Icon?
 ._*
+histo
