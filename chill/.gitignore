@@ -1,0 +1,12 @@
+# Emacs backup and scratch files
+*~
+\#*\#
+.\#*
+
+# MacOS stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+chill
